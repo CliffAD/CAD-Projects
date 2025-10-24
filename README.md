@@ -1,2 +1,2 @@
 # CAD-Projects
-This Folder consists of JAVA Programming, Python Programming, Power BI Dashboards and Excel Projects, which was used real time crisis. 
+This Folder contains JAVA and Python Programming for backend logic, automation. Power BI Dashboards for data visualisation and performance tracking, and Excel Projects for modelling, reporting and quick prototyping in real-time operations. 
